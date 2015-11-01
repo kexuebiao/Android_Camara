@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/example/camera/AlbumAty.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/example/camera/AlbumItemAty.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/example/camera/CameraAty.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/camera_library/src/main/java/com/linj/FileOperateUtil.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/camera_library/src/main/java/com/linj/album/view/AlbumGridView.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/camera_library/src/main/java/com/linj/album/view/AlbumViewPager.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/camera_library/src/main/java/com/linj/album/view/FilterImageView.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/camera_library/src/main/java/com/linj/album/view/MatrixImageView.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/camera_library/src/main/java/com/linj/album/view/ThumbnaiImageView.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/camera_library/src/main/java/com/linj/camera/view/CameraContainer.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/camera_library/src/main/java/com/linj/camera/view/CameraOperation.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/camera_library/src/main/java/com/linj/camera/view/CameraView.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/camera_library/src/main/java/com/linj/camera/view/FocusImageView.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/camera_library/src/main/java/com/linj/camera/view/TempImageView.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/camera_library/src/main/java/com/linj/imageloader/DisplayImageOptions.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/camera_library/src/main/java/com/linj/imageloader/DownloadImgUtils.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/camera_library/src/main/java/com/linj/imageloader/ImageLoader.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/camera_library/src/main/java/com/linj/imageloader/ImageSizeUtil.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/camera_library/src/main/java/com/linj/imageloader/displayer/MatrixBitmapDisplayer.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/camera_library/src/main/java/com/linj/imageloader/displayer/RoundedBitmapDisplayer.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/camera_library/src/main/java/com/linj/video/view/VideoPlayerContainer.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/camera_library/src/main/java/com/linj/video/view/VideoPlayerOperation.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/camera_library/src/main/java/com/linj/video/view/VideoPlayerView.java" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
